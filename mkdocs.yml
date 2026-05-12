@@ -1,0 +1,88 @@
+site_name: Neuroscience Notes — 神经科学笔记
+site_url: https://jeffliulab.github.io/neuro-sci-notes/
+repo_url: https://github.com/jeffliulab/neuro-sci-notes
+repo_name: jeffliulab/neuro-sci-notes
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+extra_css:
+  - site_extra_styles/stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.snippets:
+      base_path:
+        - docs
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 首页: index.md
+  - 神经科学基础:
+    - 00_Foundations/index.md
+  - 神经解剖:
+    - 01_Neuroanatomy/index.md
+  - 细胞与分子神经科学:
+    - 02_Cellular_Molecular/index.md
+  - 系统神经科学:
+    - 03_Systems_Neuroscience/index.md
+  - 认知神经科学:
+    - 04_Cognitive_Neuroscience/index.md
+  - 计算神经科学:
+    - 05_Computational_Neuroscience/index.md
+  - 脑机接口:
+    - 06_Brain_Computer_Interface/index.md
+  - 神经技术前沿:
+    - 07_Neurotech_Frontiers/index.md
+  - 神经疾病:
+    - 08_Neuro_Disorders/index.md
