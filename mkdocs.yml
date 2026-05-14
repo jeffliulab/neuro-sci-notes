@@ -95,8 +95,13 @@ nav:
     - 海马与记忆: 03_Systems_Neuroscience/Hippocampus_Memory.md
   - 认知神经科学:
     - 04_Cognitive_Neuroscience/index.md
+    - 决策: 04_Cognitive_Neuroscience/Decision_Making.md
+    - 语言: 04_Cognitive_Neuroscience/Language.md
+    - 意识: 04_Cognitive_Neuroscience/Consciousness.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
+    - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
+    - 预测编码: 05_Computational_Neuroscience/Predictive_Coding.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
