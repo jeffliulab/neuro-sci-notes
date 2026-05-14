@@ -70,10 +70,14 @@ nav:
   - 首页: index.md
   - 神经科学基础:
     - 00_Foundations/index.md
+    - 神经科学历史: 00_Foundations/Neuroscience_History.md
   - 神经解剖:
     - 01_Neuroanatomy/index.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
+    - 神经元: 02_Cellular_Molecular/Neuron.md
+    - 突触: 02_Cellular_Molecular/Synapse.md
+    - 动作电位: 02_Cellular_Molecular/Action_Potential.md
   - 系统神经科学:
     - 03_Systems_Neuroscience/index.md
   - 认知神经科学:
