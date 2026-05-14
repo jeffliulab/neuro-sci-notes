@@ -73,6 +73,10 @@ nav:
     - 神经科学历史: 00_Foundations/Neuroscience_History.md
   - 神经解剖:
     - 01_Neuroanatomy/index.md
+    - 大脑皮层: 01_Neuroanatomy/Cortex.md
+    - 海马解剖: 01_Neuroanatomy/Hippocampus_Anatomy.md
+    - 小脑: 01_Neuroanatomy/Cerebellum.md
+    - 基底神经节: 01_Neuroanatomy/Basal_Ganglia.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
     - 神经元: 02_Cellular_Molecular/Neuron.md
