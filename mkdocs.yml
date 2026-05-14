@@ -78,6 +78,11 @@ nav:
     - 神经元: 02_Cellular_Molecular/Neuron.md
     - 突触: 02_Cellular_Molecular/Synapse.md
     - 动作电位: 02_Cellular_Molecular/Action_Potential.md
+    - Hodgkin-Huxley 方程: 02_Cellular_Molecular/Hodgkin_Huxley.md
+    - 神经递质: 02_Cellular_Molecular/Neurotransmitters.md
+    - LTP 与 LTD: 02_Cellular_Molecular/LTP_LTD.md
+    - 离子通道: 02_Cellular_Molecular/Ion_Channels.md
+    - 神经胶质: 02_Cellular_Molecular/Glia.md
   - 系统神经科学:
     - 03_Systems_Neuroscience/index.md
   - 认知神经科学:
