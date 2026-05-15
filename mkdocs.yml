@@ -103,6 +103,7 @@ nav:
     - 语言: 04_Cognitive_Neuroscience/Language.md
     - 意识: 04_Cognitive_Neuroscience/Consciousness.md
     - 注意: 04_Cognitive_Neuroscience/Attention.md
+    - 情绪: 04_Cognitive_Neuroscience/Emotion.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
     - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
@@ -124,3 +125,4 @@ nav:
     - 精神分裂症: 08_Neuro_Disorders/Schizophrenia.md
     - 癫痫: 08_Neuro_Disorders/Epilepsy.md
     - 中风: 08_Neuro_Disorders/Stroke.md
+    - ALS: 08_Neuro_Disorders/ALS.md
