@@ -147,6 +147,8 @@ nav:
     - 归一化模型: 05_Computational_Neuroscience/Normalization_Models.md
     - 突触可塑性模型: 05_Computational_Neuroscience/Synaptic_Plasticity_Models.md
     - 深度学习与大脑: 05_Computational_Neuroscience/Deep_Learning_vs_Brain.md
+    - 储备池计算: 05_Computational_Neuroscience/Reservoir_Computing.md
+    - 房室模型: 05_Computational_Neuroscience/Compartmental_Models.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
