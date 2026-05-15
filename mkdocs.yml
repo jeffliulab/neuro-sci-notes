@@ -127,6 +127,8 @@ nav:
     - TMS: 07_Neurotech_Frontiers/TMS.md
     - DBS: 07_Neurotech_Frontiers/DBS.md
     - Neuralink: 07_Neurotech_Frontiers/Neuralink.md
+    - EEG: 07_Neurotech_Frontiers/EEG.md
+    - 钙成像: 07_Neurotech_Frontiers/Calcium_Imaging.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
