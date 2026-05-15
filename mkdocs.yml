@@ -71,6 +71,7 @@ nav:
   - 神经科学基础:
     - 00_Foundations/index.md
     - 神经科学历史: 00_Foundations/Neuroscience_History.md
+    - 研究方法: 00_Foundations/Research_Methods.md
   - 神经解剖:
     - 01_Neuroanatomy/index.md
     - 大脑皮层: 01_Neuroanatomy/Cortex.md
@@ -78,6 +79,7 @@ nav:
     - 小脑: 01_Neuroanatomy/Cerebellum.md
     - 基底神经节: 01_Neuroanatomy/Basal_Ganglia.md
     - 脑干: 01_Neuroanatomy/Brainstem.md
+    - 杏仁核: 01_Neuroanatomy/Amygdala.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
     - 神经元: 02_Cellular_Molecular/Neuron.md
@@ -104,11 +106,14 @@ nav:
     - 意识: 04_Cognitive_Neuroscience/Consciousness.md
     - 注意: 04_Cognitive_Neuroscience/Attention.md
     - 情绪: 04_Cognitive_Neuroscience/Emotion.md
+    - 工作记忆: 04_Cognitive_Neuroscience/Working_Memory.md
+    - 社交认知: 04_Cognitive_Neuroscience/Social_Cognition.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
     - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
     - 预测编码: 05_Computational_Neuroscience/Predictive_Coding.md
     - 贝叶斯大脑: 05_Computational_Neuroscience/Bayesian_Brain.md
+    - Hopfield 网络: 05_Computational_Neuroscience/Hopfield_Networks.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
@@ -117,6 +122,7 @@ nav:
     - fMRI BOLD: 07_Neurotech_Frontiers/fMRI_BOLD.md
     - TMS: 07_Neurotech_Frontiers/TMS.md
     - DBS: 07_Neurotech_Frontiers/DBS.md
+    - Neuralink: 07_Neurotech_Frontiers/Neuralink.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
@@ -126,3 +132,4 @@ nav:
     - 癫痫: 08_Neuro_Disorders/Epilepsy.md
     - 中风: 08_Neuro_Disorders/Stroke.md
     - ALS: 08_Neuro_Disorders/ALS.md
+    - 自闭症: 08_Neuro_Disorders/Autism.md
