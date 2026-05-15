@@ -164,6 +164,8 @@ nav:
     - Neuralink: 07_Neurotech_Frontiers/Neuralink.md
     - EEG: 07_Neurotech_Frontiers/EEG.md
     - 钙成像: 07_Neurotech_Frontiers/Calcium_Imaging.md
+    - 经颅电刺激: 07_Neurotech_Frontiers/tDCS_tACS.md
+    - 聚焦超声: 07_Neurotech_Frontiers/Focused_Ultrasound.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
