@@ -87,6 +87,9 @@ nav:
     - 比较神经科学: 00_Foundations/Comparative_Neuroscience.md
     - 脑脊液与类淋巴: 00_Foundations/CSF_Glymphatic.md
     - 神经环路: 00_Foundations/Neural_Circuits.md
+    - 神经科学统计: 00_Foundations/Statistics_in_Neuroscience.md
+    - 行为神经科学: 00_Foundations/Behavioral_Neuroscience.md
+    - 开放神经科学: 00_Foundations/Open_Neuroscience.md
   - 神经解剖:
     - 01_Neuroanatomy/index.md
     - 大脑皮层: 01_Neuroanatomy/Cortex.md
