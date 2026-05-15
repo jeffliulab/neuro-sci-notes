@@ -168,6 +168,8 @@ nav:
     - 聚焦超声: 07_Neurotech_Frontiers/Focused_Ultrasound.md
     - 脑磁图 MEG: 07_Neurotech_Frontiers/MEG.md
     - 光遗传学进阶: 07_Neurotech_Frontiers/Optogenetics_Advanced.md
+    - fNIRS: 07_Neurotech_Frontiers/fNIRS.md
+    - Neuropixels: 07_Neurotech_Frontiers/Neuropixels.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
