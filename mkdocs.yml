@@ -142,6 +142,9 @@ nav:
     - 自由能原理: 05_Computational_Neuroscience/Free_Energy_Principle.md
     - 吸引子网络: 05_Computational_Neuroscience/Attractor_Networks.md
     - 神经群体动力学: 05_Computational_Neuroscience/Neural_Population_Dynamics.md
+    - 漂移扩散模型: 05_Computational_Neuroscience/Drift_Diffusion_Model.md
+    - 高效编码假说: 05_Computational_Neuroscience/Efficient_Coding.md
+    - 归一化模型: 05_Computational_Neuroscience/Normalization_Models.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
