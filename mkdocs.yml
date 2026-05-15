@@ -166,6 +166,8 @@ nav:
     - 钙成像: 07_Neurotech_Frontiers/Calcium_Imaging.md
     - 经颅电刺激: 07_Neurotech_Frontiers/tDCS_tACS.md
     - 聚焦超声: 07_Neurotech_Frontiers/Focused_Ultrasound.md
+    - 脑磁图 MEG: 07_Neurotech_Frontiers/MEG.md
+    - 光遗传学进阶: 07_Neurotech_Frontiers/Optogenetics_Advanced.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
