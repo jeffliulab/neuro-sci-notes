@@ -138,6 +138,10 @@ nav:
     - 贝叶斯大脑: 05_Computational_Neuroscience/Bayesian_Brain.md
     - Hopfield 网络: 05_Computational_Neuroscience/Hopfield_Networks.md
     - Grid Cells: 05_Computational_Neuroscience/Grid_Cells.md
+    - 大脑强化学习: 05_Computational_Neuroscience/Reinforcement_Learning_Brain.md
+    - 自由能原理: 05_Computational_Neuroscience/Free_Energy_Principle.md
+    - 吸引子网络: 05_Computational_Neuroscience/Attractor_Networks.md
+    - 神经群体动力学: 05_Computational_Neuroscience/Neural_Population_Dynamics.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
