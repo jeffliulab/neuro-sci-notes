@@ -72,6 +72,10 @@ nav:
     - 00_Foundations/index.md
     - 神经科学历史: 00_Foundations/Neuroscience_History.md
     - 研究方法: 00_Foundations/Research_Methods.md
+    - 神经元学说: 00_Foundations/Neuron_Doctrine.md
+    - 分析层次: 00_Foundations/Levels_of_Analysis.md
+    - 神经系统总览: 00_Foundations/Nervous_System_Overview.md
+    - 神经编码: 00_Foundations/Neural_Coding.md
   - 神经解剖:
     - 01_Neuroanatomy/index.md
     - 大脑皮层: 01_Neuroanatomy/Cortex.md
