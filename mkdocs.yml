@@ -77,6 +77,7 @@ nav:
     - 海马解剖: 01_Neuroanatomy/Hippocampus_Anatomy.md
     - 小脑: 01_Neuroanatomy/Cerebellum.md
     - 基底神经节: 01_Neuroanatomy/Basal_Ganglia.md
+    - 脑干: 01_Neuroanatomy/Brainstem.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
     - 神经元: 02_Cellular_Molecular/Neuron.md
@@ -87,21 +88,26 @@ nav:
     - LTP 与 LTD: 02_Cellular_Molecular/LTP_LTD.md
     - 离子通道: 02_Cellular_Molecular/Ion_Channels.md
     - 神经胶质: 02_Cellular_Molecular/Glia.md
+    - 膜电位: 02_Cellular_Molecular/Membrane_Potential.md
   - 系统神经科学:
     - 03_Systems_Neuroscience/index.md
     - 视觉系统: 03_Systems_Neuroscience/Visual_System.md
+    - 听觉系统: 03_Systems_Neuroscience/Auditory_System.md
     - 运动系统: 03_Systems_Neuroscience/Motor_System.md
     - 奖赏系统: 03_Systems_Neuroscience/Reward_System.md
     - 海马与记忆: 03_Systems_Neuroscience/Hippocampus_Memory.md
+    - 睡眠与唤醒: 03_Systems_Neuroscience/Sleep_Wake.md
   - 认知神经科学:
     - 04_Cognitive_Neuroscience/index.md
     - 决策: 04_Cognitive_Neuroscience/Decision_Making.md
     - 语言: 04_Cognitive_Neuroscience/Language.md
     - 意识: 04_Cognitive_Neuroscience/Consciousness.md
+    - 注意: 04_Cognitive_Neuroscience/Attention.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
     - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
     - 预测编码: 05_Computational_Neuroscience/Predictive_Coding.md
+    - 贝叶斯大脑: 05_Computational_Neuroscience/Bayesian_Brain.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
@@ -109,9 +115,12 @@ nav:
     - 光遗传学: 07_Neurotech_Frontiers/Optogenetics.md
     - fMRI BOLD: 07_Neurotech_Frontiers/fMRI_BOLD.md
     - TMS: 07_Neurotech_Frontiers/TMS.md
+    - DBS: 07_Neurotech_Frontiers/DBS.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
     - Parkinson 病: 08_Neuro_Disorders/Parkinson.md
     - 抑郁症: 08_Neuro_Disorders/Depression.md
     - 精神分裂症: 08_Neuro_Disorders/Schizophrenia.md
+    - 癫痫: 08_Neuro_Disorders/Epilepsy.md
+    - 中风: 08_Neuro_Disorders/Stroke.md
