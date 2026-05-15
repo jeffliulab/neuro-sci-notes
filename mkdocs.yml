@@ -172,6 +172,8 @@ nav:
     - Neuropixels: 07_Neurotech_Frontiers/Neuropixels.md
     - 弥散张量成像: 07_Neurotech_Frontiers/DTI_Tractography.md
     - 化学遗传学: 07_Neurotech_Frontiers/Chemogenetics_DREADD.md
+    - PET 成像: 07_Neurotech_Frontiers/PET_Imaging.md
+    - 膜片钳: 07_Neurotech_Frontiers/Patch_Clamp.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
