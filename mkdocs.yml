@@ -170,6 +170,8 @@ nav:
     - 光遗传学进阶: 07_Neurotech_Frontiers/Optogenetics_Advanced.md
     - fNIRS: 07_Neurotech_Frontiers/fNIRS.md
     - Neuropixels: 07_Neurotech_Frontiers/Neuropixels.md
+    - 弥散张量成像: 07_Neurotech_Frontiers/DTI_Tractography.md
+    - 化学遗传学: 07_Neurotech_Frontiers/Chemogenetics_DREADD.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
     - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
