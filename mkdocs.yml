@@ -84,6 +84,9 @@ nav:
     - 连接组学: 00_Foundations/Connectomics.md
     - 神经可塑性: 00_Foundations/Neuroplasticity.md
     - 神经伦理学: 00_Foundations/Neuroscience_Ethics.md
+    - 比较神经科学: 00_Foundations/Comparative_Neuroscience.md
+    - 脑脊液与类淋巴: 00_Foundations/CSF_Glymphatic.md
+    - 神经环路: 00_Foundations/Neural_Circuits.md
   - 神经解剖:
     - 01_Neuroanatomy/index.md
     - 大脑皮层: 01_Neuroanatomy/Cortex.md
