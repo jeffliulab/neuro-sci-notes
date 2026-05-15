@@ -149,6 +149,10 @@ nav:
     - 深度学习与大脑: 05_Computational_Neuroscience/Deep_Learning_vs_Brain.md
     - 储备池计算: 05_Computational_Neuroscience/Reservoir_Computing.md
     - 房室模型: 05_Computational_Neuroscience/Compartmental_Models.md
+    - 全脑建模: 05_Computational_Neuroscience/Whole_Brain_Modeling.md
+    - 信息论与大脑: 05_Computational_Neuroscience/Information_Theory_Brain.md
+    - 神经常微分方程: 05_Computational_Neuroscience/Neural_ODEs_Brain.md
+    - 能量基础模型: 05_Computational_Neuroscience/Energy_Based_Models_Brain.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
