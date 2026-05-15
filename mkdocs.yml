@@ -80,6 +80,7 @@ nav:
     - 基底神经节: 01_Neuroanatomy/Basal_Ganglia.md
     - 脑干: 01_Neuroanatomy/Brainstem.md
     - 杏仁核: 01_Neuroanatomy/Amygdala.md
+    - 丘脑: 01_Neuroanatomy/Thalamus.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
     - 神经元: 02_Cellular_Molecular/Neuron.md
@@ -101,6 +102,7 @@ nav:
     - 海马与记忆: 03_Systems_Neuroscience/Hippocampus_Memory.md
     - 睡眠与唤醒: 03_Systems_Neuroscience/Sleep_Wake.md
     - 体感系统: 03_Systems_Neuroscience/Somatosensory.md
+    - 嗅觉系统: 03_Systems_Neuroscience/Olfactory_System.md
   - 认知神经科学:
     - 04_Cognitive_Neuroscience/index.md
     - 决策: 04_Cognitive_Neuroscience/Decision_Making.md
@@ -140,3 +142,4 @@ nav:
     - ALS: 08_Neuro_Disorders/ALS.md
     - 自闭症: 08_Neuro_Disorders/Autism.md
     - 亨廷顿病: 08_Neuro_Disorders/Huntington.md
+    - 多发性硬化: 08_Neuro_Disorders/Multiple_Sclerosis.md
