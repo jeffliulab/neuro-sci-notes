@@ -106,5 +106,12 @@ nav:
     - 06_Brain_Computer_Interface/index.md
   - 神经技术前沿:
     - 07_Neurotech_Frontiers/index.md
+    - 光遗传学: 07_Neurotech_Frontiers/Optogenetics.md
+    - fMRI BOLD: 07_Neurotech_Frontiers/fMRI_BOLD.md
+    - TMS: 07_Neurotech_Frontiers/TMS.md
   - 神经疾病:
     - 08_Neuro_Disorders/index.md
+    - Alzheimer 病: 08_Neuro_Disorders/Alzheimer.md
+    - Parkinson 病: 08_Neuro_Disorders/Parkinson.md
+    - 抑郁症: 08_Neuro_Disorders/Depression.md
+    - 精神分裂症: 08_Neuro_Disorders/Schizophrenia.md
