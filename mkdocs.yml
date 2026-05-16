@@ -140,6 +140,9 @@ nav:
     - 创造力: 04_Cognitive_Neuroscience/Creativity.md
     - 认知地图: 04_Cognitive_Neuroscience/Cognitive_Maps.md
     - 时间知觉: 04_Cognitive_Neuroscience/Time_Perception.md
+    - 自我与能动感: 04_Cognitive_Neuroscience/Self_and_Agency.md
+    - 认知发展: 04_Cognitive_Neuroscience/Cognitive_Development.md
+    - 认知老化: 04_Cognitive_Neuroscience/Cognitive_Aging.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
     - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
