@@ -135,6 +135,9 @@ nav:
     - 记忆系统: 04_Cognitive_Neuroscience/Memory_Systems.md
     - 推理与问题解决: 04_Cognitive_Neuroscience/Reasoning_Problem_Solving.md
     - 数字认知: 04_Cognitive_Neuroscience/Numerical_Cognition.md
+    - 具身认知: 04_Cognitive_Neuroscience/Embodied_Cognition.md
+    - 心理意象: 04_Cognitive_Neuroscience/Mental_Imagery.md
+    - 创造力: 04_Cognitive_Neuroscience/Creativity.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
     - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
