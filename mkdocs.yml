@@ -117,6 +117,10 @@ nav:
     - 髓鞘形成: 02_Cellular_Molecular/Myelination.md
     - 神经营养因子: 02_Cellular_Molecular/Neurotrophins.md
     - 轴浆运输: 02_Cellular_Molecular/Axonal_Transport.md
+    - 神经元类型: 02_Cellular_Molecular/Neuron_Types.md
+    - 缝隙连接: 02_Cellular_Molecular/Gap_Junctions.md
+    - 星形胶质功能: 02_Cellular_Molecular/Astrocyte_Function.md
+    - 神经元基因表达: 02_Cellular_Molecular/Gene_Expression_Neuron.md
   - 系统神经科学:
     - 03_Systems_Neuroscience/index.md
     - 视觉系统: 03_Systems_Neuroscience/Visual_System.md
