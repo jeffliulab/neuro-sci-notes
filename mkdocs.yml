@@ -131,6 +131,8 @@ nav:
     - 工作记忆: 04_Cognitive_Neuroscience/Working_Memory.md
     - 社交认知: 04_Cognitive_Neuroscience/Social_Cognition.md
     - 元认知: 04_Cognitive_Neuroscience/Metacognition.md
+    - 执行功能: 04_Cognitive_Neuroscience/Executive_Function.md
+    - 记忆系统: 04_Cognitive_Neuroscience/Memory_Systems.md
   - 计算神经科学:
     - 05_Computational_Neuroscience/index.md
     - Spiking 神经网络: 05_Computational_Neuroscience/Spiking_Neural_Networks.md
