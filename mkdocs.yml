@@ -99,6 +99,8 @@ nav:
     - 脑干: 01_Neuroanatomy/Brainstem.md
     - 杏仁核: 01_Neuroanatomy/Amygdala.md
     - 丘脑: 01_Neuroanatomy/Thalamus.md
+    - 前额叶皮层: 01_Neuroanatomy/Prefrontal_Cortex.md
+    - 扣带回: 01_Neuroanatomy/Cingulate_Cortex.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
     - 神经元: 02_Cellular_Molecular/Neuron.md
