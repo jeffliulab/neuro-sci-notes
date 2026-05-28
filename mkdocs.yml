@@ -195,6 +195,91 @@ nav:
     - 能量基础模型: 05_Computational_Neuroscience/Energy_Based_Models_Brain.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
+    - BCI基础:
+      - 06_Brain_Computer_Interface/01_Foundations/index.md
+      - BCI概述与分类: 06_Brain_Computer_Interface/01_Foundations/BCI_概述与分类.md
+      - 发展简史: 06_Brain_Computer_Interface/01_Foundations/发展简史.md
+      - 核心术语与指标: 06_Brain_Computer_Interface/01_Foundations/核心术语与指标.md
+    - 神经生理基础:
+      - 06_Brain_Computer_Interface/02_Neurophysiology/index.md
+      - 运动皮层层级: 06_Brain_Computer_Interface/02_Neurophysiology/运动皮层层级.md
+      - 神经信号起源: 06_Brain_Computer_Interface/02_Neurophysiology/神经信号起源.md
+      - 神经流形与动力学: 06_Brain_Computer_Interface/02_Neurophysiology/神经流形与动力学.md
+      - 感觉皮层与躯体图谱: 06_Brain_Computer_Interface/02_Neurophysiology/感觉皮层与躯体图谱.md
+    - 信号采集:
+      - 06_Brain_Computer_Interface/03_Signal_Acquisition/index.md
+      - 侵入式电极: 06_Brain_Computer_Interface/03_Signal_Acquisition/侵入式电极.md
+      - 微创接口: 06_Brain_Computer_Interface/03_Signal_Acquisition/微创接口.md
+      - 非侵入式采集: 06_Brain_Computer_Interface/03_Signal_Acquisition/非侵入式采集.md
+      - 刺激侧技术: 06_Brain_Computer_Interface/03_Signal_Acquisition/刺激侧技术.md
+      - 信号预处理: 06_Brain_Computer_Interface/03_Signal_Acquisition/信号预处理.md
+    - 经典解码:
+      - 06_Brain_Computer_Interface/04_Classical_Decoding/index.md
+      - 群体向量算法: 06_Brain_Computer_Interface/04_Classical_Decoding/群体向量算法.md
+      - 维纳与卡尔曼滤波: 06_Brain_Computer_Interface/04_Classical_Decoding/维纳与卡尔曼滤波.md
+      - ReFIT与在线校准: 06_Brain_Computer_Interface/04_Classical_Decoding/ReFIT与在线校准.md
+      - 线性判别与特征选择: 06_Brain_Computer_Interface/04_Classical_Decoding/线性判别与特征选择.md
+    - 深度学习解码:
+      - 06_Brain_Computer_Interface/05_Deep_Learning_Decoders/index.md
+      - EEGNet与CNN: 06_Brain_Computer_Interface/05_Deep_Learning_Decoders/EEGNet与CNN方法.md
+      - LFADS与动力学: 06_Brain_Computer_Interface/05_Deep_Learning_Decoders/LFADS与动力学建模.md
+      - NDT系列与Transformer: 06_Brain_Computer_Interface/05_Deep_Learning_Decoders/NDT系列与Transformer.md
+      - CEBRA与对比学习: 06_Brain_Computer_Interface/05_Deep_Learning_Decoders/CEBRA与对比学习.md
+      - 神经基础模型POYO: 06_Brain_Computer_Interface/05_Deep_Learning_Decoders/神经基础模型_POYO.md
+    - 意图到行动:
+      - 06_Brain_Computer_Interface/06_Intention_to_Action/index.md
+      - 运动意图解码: 06_Brain_Computer_Interface/06_Intention_to_Action/运动意图解码.md
+      - 共享自主: 06_Brain_Computer_Interface/06_Intention_to_Action/共享自主.md
+      - 分层规划BCI-LLM-机器人: 06_Brain_Computer_Interface/06_Intention_to_Action/分层规划_BCI_LLM_机器人.md
+      - 闭环控制与CLDA: 06_Brain_Computer_Interface/06_Intention_to_Action/闭环控制与CLDA.md
+      - 标志性系统案例: 06_Brain_Computer_Interface/06_Intention_to_Action/标志性系统案例.md
+    - 脑到语言:
+      - 06_Brain_Computer_Interface/07_Brain_to_Language/index.md
+      - 侵入式语音BCI: 06_Brain_Computer_Interface/07_Brain_to_Language/侵入式语音BCI.md
+      - 手写解码: 06_Brain_Computer_Interface/07_Brain_to_Language/手写解码.md
+      - 非侵入式脑-文本: 06_Brain_Computer_Interface/07_Brain_to_Language/非侵入式脑-文本.md
+      - LLM后处理融合: 06_Brain_Computer_Interface/07_Brain_to_Language/LLM后处理融合.md
+    - 脑到感知:
+      - 06_Brain_Computer_Interface/08_Brain_to_Perception/index.md
+      - fMRI图像重建: 06_Brain_Computer_Interface/08_Brain_to_Perception/fMRI图像重建.md
+      - 语义重建: 06_Brain_Computer_Interface/08_Brain_to_Perception/语义重建.md
+      - 脑-视频解码: 06_Brain_Computer_Interface/08_Brain_to_Perception/脑-视频解码.md
+      - 视觉皮层假体: 06_Brain_Computer_Interface/08_Brain_to_Perception/视觉皮层假体.md
+    - 感觉写入与双向:
+      - 06_Brain_Computer_Interface/09_Sensory_Writing_Bidirectional/index.md
+      - ICMS与体感反馈: 06_Brain_Computer_Interface/09_Sensory_Writing_Bidirectional/ICMS与体感反馈.md
+      - 双向BCI: 06_Brain_Computer_Interface/09_Sensory_Writing_Bidirectional/双向BCI与多路分离.md
+      - 记忆假体: 06_Brain_Computer_Interface/09_Sensory_Writing_Bidirectional/记忆假体.md
+      - 神经刺激安全性: 06_Brain_Computer_Interface/09_Sensory_Writing_Bidirectional/神经刺激安全性.md
+    - 具身智能链接:
+      - 06_Brain_Computer_Interface/10_Embodied_Intelligence_Link/index.md
+      - 运动皮层作为动力系统: 06_Brain_Computer_Interface/10_Embodied_Intelligence_Link/运动皮层作为动力系统.md
+      - 神经流形与RL策略: 06_Brain_Computer_Interface/10_Embodied_Intelligence_Link/神经流形与RL策略.md
+      - BCI作为世界模型验证: 06_Brain_Computer_Interface/10_Embodied_Intelligence_Link/BCI作为世界模型验证.md
+      - 脑-体-环境闭环: 06_Brain_Computer_Interface/10_Embodied_Intelligence_Link/脑-体-环境闭环.md
+    - 商业与临床:
+      - 06_Brain_Computer_Interface/11_Commercial_Clinical/index.md
+      - Neuralink: 06_Brain_Computer_Interface/11_Commercial_Clinical/Neuralink_PRIME研究.md
+      - Synchron Stentrode: 06_Brain_Computer_Interface/11_Commercial_Clinical/Synchron_Stentrode.md
+      - Precision与Blackrock: 06_Brain_Computer_Interface/11_Commercial_Clinical/Precision_Paradromics_Blackrock.md
+      - 中国BCI生态: 06_Brain_Computer_Interface/11_Commercial_Clinical/中国BCI生态.md
+      - 监管路径: 06_Brain_Computer_Interface/11_Commercial_Clinical/监管路径_FDA_NMPA.md
+    - 消费级非侵入:
+      - 06_Brain_Computer_Interface/12_Consumer_NonInvasive/index.md
+      - EEG消费设备: 06_Brain_Computer_Interface/12_Consumer_NonInvasive/EEG消费设备全景.md
+      - Apple神经传感: 06_Brain_Computer_Interface/12_Consumer_NonInvasive/Apple_神经传感专利.md
+      - 思维打字: 06_Brain_Computer_Interface/12_Consumer_NonInvasive/思维打字现状.md
+    - 伦理与神经权利:
+      - 06_Brain_Computer_Interface/13_Ethics_Neurorights/index.md
+      - 神经权利立法: 06_Brain_Computer_Interface/13_Ethics_Neurorights/神经权利与认知自由立法.md
+      - 脑数据隐私: 06_Brain_Computer_Interface/13_Ethics_Neurorights/脑数据隐私与认知生物计量.md
+      - AI对齐视角: 06_Brain_Computer_Interface/13_Ethics_Neurorights/AI对齐视角.md
+      - 治理框架: 06_Brain_Computer_Interface/13_Ethics_Neurorights/治理框架_UNESCO_EU_AI_Act.md
+    - 数据集与工具:
+      - 06_Brain_Computer_Interface/14_Datasets_Tools/index.md
+      - 神经潜在基准: 06_Brain_Computer_Interface/14_Datasets_Tools/神经潜在基准_NLB_FALCON.md
+      - 开源工具: 06_Brain_Computer_Interface/14_Datasets_Tools/开源工具_MNE_EEGLAB_CEBRA.md
+      - 实验室与资源: 06_Brain_Computer_Interface/14_Datasets_Tools/主要实验室与学习资源.md
   - 神经技术前沿:
     - 07_Neurotech_Frontiers/index.md
     - 光遗传学: 07_Neurotech_Frontiers/Optogenetics.md
