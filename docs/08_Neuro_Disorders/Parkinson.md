@@ -43,7 +43,7 @@
 
 - 90% sporadic (后天)
 - 10% genetic (LRRK2, SNCA, PINK1, Parkin, GBA)
-- LRRK2 G2019S: AD 常见 mutation (5-7% sporadic 病例)
+- LRRK2 G2019S: 最常见的 autosomal dominant（常染色体显性，AD）PD 突变 (5-7% sporadic 病例)
 
 ---
 

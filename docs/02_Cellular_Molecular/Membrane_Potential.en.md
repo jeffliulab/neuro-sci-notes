@@ -72,13 +72,30 @@ $P_X$ = permeability. At rest $P_K \gg P_{Na}$, so V close to $E_K$ but slightly
 import numpy as np
 
 def nernst(z, X_in, X_out, T_C=37):
+    """Nernst potential in mV."""
     R = 8.314
     F = 96485
     T_K = T_C + 273.15
     return (R * T_K) / (z * F) * np.log(X_out / X_in) * 1000
 
-print(f"E_Na = {nernst(1, 12, 145):.1f} mV")
-print(f"E_K = {nernst(1, 140, 4):.1f} mV")
+def ghk(perms, ions_in, ions_out, T_C=37):
+    """Goldman-Hodgkin-Katz V_m in mV.
+
+    perms:    dict ion_name → permeability P
+    ions_in:  dict ion_name → intracellular concentration
+    ions_out: dict ion_name → extracellular concentration
+    Cations use P·[ion]_out in numerator, anions (Cl-) reversed.
+    """
+    R = 8.314; F = 96485
+    T_K = T_C + 273.15
+    num = (perms['K'] * ions_out['K'] + perms['Na'] * ions_out['Na']
+           + perms['Cl'] * ions_in['Cl'])
+    den = (perms['K'] * ions_in['K'] + perms['Na'] * ions_in['Na']
+           + perms['Cl'] * ions_out['Cl'])
+    return R * T_K / F * np.log(num / den) * 1000
+
+print(f"E_Na = {nernst(1, 12, 145):.1f} mV")  # ~ +60
+print(f"E_K = {nernst(1, 140, 4):.1f} mV")    # ~ -90
 ```
 
 ---

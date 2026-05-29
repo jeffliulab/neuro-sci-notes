@@ -105,6 +105,8 @@ nav:
     - 颅神经: 01_Neuroanatomy/Cranial_Nerves.md
     - 脑膜与脑室: 01_Neuroanatomy/Meninges_Ventricles.md
     - 脑血管: 01_Neuroanatomy/Cerebral_Vasculature.md
+    - 脊髓解剖: 01_Neuroanatomy/Spinal_Cord_Anatomy.md
+    - 白质纤维束: 01_Neuroanatomy/White_Matter_Tracts.md
   - 细胞与分子神经科学:
     - 02_Cellular_Molecular/index.md
     - 神经元: 02_Cellular_Molecular/Neuron.md
@@ -195,6 +197,7 @@ nav:
     - 能量基础模型: 05_Computational_Neuroscience/Energy_Based_Models_Brain.md
   - 脑机接口:
     - 06_Brain_Computer_Interface/index.md
+    - 导论: 06_Brain_Computer_Interface/introduction.md
     - BCI基础:
       - 06_Brain_Computer_Interface/01_Foundations/index.md
       - BCI概述与分类: 06_Brain_Computer_Interface/01_Foundations/BCI_概述与分类.md

@@ -43,7 +43,7 @@ Non-motor: depression, sleep, autonomic, cognitive decline late.
 
 - 90% sporadic
 - 10% genetic (LRRK2, SNCA, PINK1, Parkin, GBA)
-- LRRK2 G2019S: common AD mutation (5-7% sporadic cases)
+- LRRK2 G2019S: most common autosomal dominant (AD) PD mutation (5-7% sporadic cases)
 
 ---
 
