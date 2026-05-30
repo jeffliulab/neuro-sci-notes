@@ -29,5 +29,7 @@
 
 ## Sister Sites
 
-- AI / algorithms / software → [ai-notes](https://jeffliulab.github.io/ai-notes/)
-- Robotics & embodied intelligence → [embodied-notes](https://jeffliulab.github.io/embodied-notes/)
+[AI Notes →](https://jeffliulab.github.io/ai-notes/){ .md-button }
+[Embodied & Robotics →](https://jeffliulab.github.io/embodied-notes/){ .md-button }
+[AI Industry Research →](https://jeffliulab.github.io/ai-industry-research/){ .md-button }
+[Finance Notes →](https://jeffliulab.github.io/finance-notes/){ .md-button }

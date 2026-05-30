@@ -27,7 +27,9 @@
 
 ---
 
-## 与姐妹站
+## 友情链接
 
-- AI / 算法 / 软件 → [ai-notes](https://jeffliulab.github.io/ai-notes/)
-- 机器人与具身智能 → [embodied-notes](https://jeffliulab.github.io/embodied-notes/)
+[AI 学习笔记 →](https://jeffliulab.github.io/ai-notes/){ .md-button }
+[具身智能与机器人 →](https://jeffliulab.github.io/embodied-notes/){ .md-button }
+[AI 行业研究 →](https://jeffliulab.github.io/ai-industry-research/){ .md-button }
+[金融学习笔记 →](https://jeffliulab.github.io/finance-notes/){ .md-button }
